@@ -1,6 +1,6 @@
-## Bienvenidos a Aefix s.a.s
-> <a href="mailto:gmartinez@aefix.com.co"> e-mail Contacto Servicios</a>.<br> 
-> <a href="mailto:vrosales@aefix.com.co"> e-mail Contacto Consultoría</a>.<br> 
+## Bienvenidos a Aefix s.a.s especialistas en Propiedad Horizontal
+> <a href="mailto:gmartinez@aefix.com.co"> e-mail Contacto Servicios</a><br> 
+> <a href="mailto:vrosales@aefix.com.co"> e-mail Contacto Consultoría</a><br> 
 <img src="https://s3.amazonaws.com/www.nuberix.co/images/400dpiLogo.png" alt="Aefix S.A.S" />
 Siguenos en :<br>
 <address>
