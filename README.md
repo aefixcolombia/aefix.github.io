@@ -6,6 +6,6 @@
 <address>
 <A HREF="http://twitter.com/aefix_sas" TARGET="_BLANK"><p>twitter.com/aefix_sas</p>
 <A HREF="http://facebook.com/aefix" TARGET="_BLANK"><p>facebook.com/aefix </p>
-********Sitio Web en Construcción*********
-CARTAGENA - COLOMBIA
+##********Sitio Web en Construcción*********
+##CARTAGENA - COLOMBIA
 
